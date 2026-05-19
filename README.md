@@ -1,594 +1,233 @@
 <div align="center">
 
-<!-- Dynamic Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=Hema%20Satya%20Nikhil&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20UI/UX%20Creator&descSize=18&descAlignY=55" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hema%20Satya%20Nikhil&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20|%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 
 </div>
 
 <div align="center">
   
-<!-- Animated Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Mastering+DSA+in+C%2B%2B+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Content+Creator+%F0%9F%8E%AC;Building+Amazing+Experiences+%E2%9C%A8" alt="Typing SVG" />
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hemasatyanikhil.tech-00D9FF?style=for-the-badge&labelColor=black)](https://www.hemasatyanikhil.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/hema-satya-nikhil)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:satyanikhil24@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black)](https://youtube.com/@ft.nikhil)
 
-<!-- Social Badges with Gradient Effects -->
-<p align="center">
-  <a href="https://www.hemasatyanikhil.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-hemasatyanikhil.tech-FF6B6B?style=for-the-badge&labelColor=1a1a2e&color=FF6B6B"/>
-  </a>
-  <a href="https://linkedin.com/in/hema-satya-nikhil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
-  </a>
-  <a href="mailto:satyanikhil24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
-  </a>
-  <a href="https://youtube.com/@ft.nikhil" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e"/>
-  </a>
-  <a href="https://instagram.com/unknown_person_nikhil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hema-satya-nikhil&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hema-satya-nikhil?label=Followers&style=for-the-badge&color=blue&labelColor=1a1a2e" alt="followers" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=hema-satya-nikhil&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
 </div>
 
-<br>
+---
 
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🎯 About Me
 
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
-<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```javascript
+```typescript
 const nikhil = {
-    pronouns: "He" | "Him",
     location: "India 🇮🇳",
-    education: {
-        degree: "B.Tech in Computer Science",
-        year: "Final Year",
-        college: "Srinivasa Institute of Engineering"
-    },
-    role: "Full-Stack Developer | UI/UX Enthusiast",
-    currentFocus: [
-        "🧠 Mastering DSA in C++",
-        "☁️ AWS Cloud Architecture",
-        "⚙️ Java Backend Development",
-        "🎯 Competitive Programming (Soon!)",
-        "🚀 Building Scalable Applications"
-    ],
-    passions: [
-        "💻 Crafting Digital Experiences",
-        "🎬 Creating Content & Capturing Moments",
-        "🎨 UI/UX Design & Animation",
-        "📚 Continuous Learning",
-        "🌟 Problem Solving"
-    ],
-    superpowers: ["Patience", "Creative Problem Solving", "Attention to Detail"],
+    education: "B.Tech CSE - Final Year @ Srinivasa Institute of Engineering",
+    role: "Full-Stack Developer | UI/UX Enthusiast | Content Creator",
+    currentFocus: ["AWS Cloud", "Java Backend", "Building Scalable Apps"],
+    passion: ["Creating Digital Experiences", "Capturing Memories", "Long Coding Sessions"],
+    superpower: "Patience + Creative Problem Solving",
     motto: "Where patience meets code, magic happens ✨",
-    funFact: "Can code & edit videos for hours without losing focus! 🎯",
-    lookingFor: [
-        "Internship Opportunities",
-        "Open Source Collaborations",
-        "Freelance Projects",
-        "Learning & Growth"
-    ]
+    funFact: "I can code for hours and edit videos without losing focus!",
+    openTo: ["Collaborations", "Freelance Projects", "Learning Opportunities"]
 };
 ```
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🚀 What Drives Me
+
+- 💻 **Creative Coder** - I don't just write code, I craft experiences
+- 🎨 **UI/UX Design Sense** - Making things beautiful AND functional
+- 🎬 **Content Creator** - Capturing memories through videos and photos
+- 🧩 **Problem Solver** - Love tackling complex challenges with patience
+- ⚡ **Fast Learner** - Always hungry for new tech and skills
+- 🎯 **Detail-Oriented** - Can sit for hours perfecting that one feature
 
 <br clear="right"/>
 
-### 🎯 What Makes Me Unique
-
-- 💡 **Creative Problem Solver** - I approach coding like an art form
-- 🎨 **Design-Minded Developer** - Seamlessly blend aesthetics with functionality  
-- 🚀 **Fast Learner** - Constantly evolving with new technologies
-- 🎬 **Multi-Talented** - Developer by day, Content Creator by passion
-- 🧩 **Detail Obsessed** - Perfection isn't optional, it's a standard
-- ⚡ **Patient & Persistent** - Can debug for hours until it's perfect
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
+---
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🥇 Competition Victories
-<br>
-
-🏆 **1st Prize** - JNTUK Project Expo  
-<sub>Esparks Event - Innovation Category</sub>
-
-🥈 **2nd Prize** - VEDHA TechFest  
-<sub>Aditya University - Web Development</sub>
-
-🥇 **1st Prize** - VSM College TechFest  
-<sub>Full-Stack Project Competition</sub>
+### 🥇 Competition Wins
+- 🏆 **1st Prize** - JNTUK Project Expo (Esparks Event)
+- 🥈 **2nd Prize** - VEDHA TechFest, Aditya University
+- 🥇 **1st Prize** - VSM College TechFest
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📜 Certifications & Learning
-<br>
+### 📜 Certifications
+- ✅ MongoDB Node.js Developer Path
+- ✅ Building RAG Apps Using MongoDB
+- ✅ AWS Cloud Club Member
+- ✅ Python for Data Science
+- ✅ Frontend Development
+- ✅ MongoDB Certification
 
-✅ **MongoDB Node.js Developer Path**  
-✅ **Building RAG Apps - MongoDB**  
-✅ **AWS Cloud Club Member**  
-✅ **Python for Data Science**  
-✅ **Frontend Development Mastery**  
-✅ **MongoDB Database Certification**
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🎓 Events & Community
+- 🌐 **AWS Community Student Builder Day** - Mohan Babu University, Tirupati
+- 👥 Active in Tech Communities & Learning Groups
 
 </td>
 </tr>
 </table>
 
-### 🌐 Community & Events
-
-**AWS Community Student Builder Day** - Mohan Babu University, Tirupati  
-Active Participant in Tech Communities | Always Learning & Sharing Knowledge
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-</p>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🎯 Current Learning Journey - DSA in C++
-
-<div align="center">
-
-### 🚀 Diving Deep into Data Structures & Algorithms
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**📊 Core Topics**
-<br><br>
-✅ Arrays & Strings  
-✅ Linked Lists  
-✅ Stacks & Queues  
-✅ Hash Tables  
-✅ Trees & BST  
-
-</td>
-<td width="33%" align="center">
-
-**🧩 Advanced Topics**
-<br><br>
-🔄 Dynamic Programming  
-🔄 Graph Algorithms  
-🔄 Greedy Algorithms  
-🔄 Backtracking  
-🔄 Bit Manipulation  
-
-</td>
-<td width="33%" align="center">
-
-**🎯 Next Steps**
-<br><br>
-📌 Competitive Programming  
-📌 LeetCode Journey  
-📌 Codeforces Practice  
-📌 System Design  
-📌 Advanced C++ STL  
-
-</td>
-</tr>
-</table>
-
-### 💪 Why C++ for DSA?
-
-```cpp
-class MyJourney {
-public:
-    string focus = "Data Structures & Algorithms";
-    string language = "C++";
-    
-    vector<string> reasons = {
-        "⚡ High Performance & Speed",
-        "🎯 Better Memory Management",
-        "💼 Industry Standard for Competitive Programming",
-        "🚀 STL Library Power",
-        "📚 Deep Understanding of Low-Level Concepts"
-    };
-    
-    void currentGoals() {
-        cout << "Solving 500+ DSA problems in 2026!" << endl;
-        cout << "Building strong problem-solving foundation!" << endl;
-        cout << "Preparing for top tech companies!" << endl;
-    }
-};
-```
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
+---
 
 ## 💼 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 [Listen Music Together](https://listen-music-together.vercel.app)
-Real-time collaborative music listening platform where friends can sync and enjoy music together, no matter the distance.
-
-**🛠 Tech Stack:**
-- React.js
-- Node.js
-- WebSockets
-- Real-time Sync
-
-**✨ Features:**
-- Live music synchronization
-- Room creation & sharing
-- Chat functionality
-- Responsive design
-
-[🔗 View Live](https://listen-music-together.vercel.app) | [💻 GitHub](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Personal Portfolio](https://hemasatyanikhil.tech)
-Modern, interactive portfolio showcasing my work with stunning 3D animations and smooth transitions.
-
-**🛠 Tech Stack:**
-- React.js
-- Three.js
-- GSAP Animations
-- Custom CSS
-
-**✨ Features:**
-- 3D interactive elements
-- Smooth scroll animations
-- Project showcases
-- Contact integration
-
-[🔗 Visit Site](https://hemasatyanikhil.tech) | [💻 GitHub](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 [DocSpot](https://github.com/hema-satya-nikhil/docspot)
-Complete doctor appointment booking system with integrated payment gateway and real-time availability.
-
-**🛠 Tech Stack:**
-- MERN Stack
-- Payment Integration
-- JWT Authentication
-- REST APIs
-
-**✨ Features:**
-- Doctor search & filter
-- Appointment scheduling
-- Payment processing
-- User dashboards
-
-[💻 GitHub Repo](https://github.com/hema-satya-nikhil/docspot)
-
-</td>
-<td width="50%" valign="top">
-
-### 📽️ [CSE Projector Management](https://github.com/hema-satya-nikhil/cse-projector)
-Interactive projector management system for college use with booking and scheduling features.
-
-**🛠 Tech Stack:**
-- React.js
-- Express.js
-- MongoDB
-- Material-UI
-
-**✨ Features:**
-- Real-time availability
-- Booking system
-- Admin dashboard
-- Conflict management
-
-[💻 GitHub Repo](https://github.com/hema-satya-nikhil/cse-projector)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-
-### 🎓 [SRIN College Website Clone](https://github.com/hema-satya-nikhil/srin-clone)
-Modern redesign of college website with enhanced UI/UX and responsive design
-
-**🛠 Tech Stack:** HTML5 | CSS3 | JavaScript | Bootstrap
-
-[💻 View Project](https://github.com/hema-satya-nikhil/srin-clone)
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| 🎵 **Listen Music Together** | Real-time collaborative music listening app | React, Node.js, WebSockets | [View Live](https://listen-music-together.vercel.app) |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing my work | React, Three.js, GSAP | [Visit Site](https://hemasatyanikhil.tech) |
+| 🏥 **DocSpot** | Doctor appointment booking system | MERN Stack, Payment Integration | [Explore →](https://github.com/hema-satya-nikhil/docspot) |
+| 📽️ **CSE Projector Project** | Interactive projector management system | React, Express.js, MongoDB | [View Project](https://github.com/hema-satya-nikhil/cse-projector) |
+| 🎓 **SRIN Clone** | College website clone with modern design | HTML, CSS, JavaScript, Bootstrap | [Check it out](https://github.com/hema-satya-nikhil/srin-clone) |
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📊 GitHub Statistics
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hema-satya-nikhil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hema-satya-nikhil&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema-satya-nikhil&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hema-satya-nikhil&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tools & Others
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-<br>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hema-satya-nikhil&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hema-satya-nikhil&theme=radical&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema-satya-nikhil&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hema-satya-nikhil&theme=react-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=hema-satya-nikhil&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hema-satya-nikhil&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+![Snake animation](https://raw.githubusercontent.com/hema-satya-nikhil/hema-satya-nikhil/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📈 Contribution Activity
+## 💭 Dev Quote
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hema-satya-nikhil/hema-satya-nikhil/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hema-satya-nikhil/hema-satya-nikhil/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hema-satya-nikhil/hema-satya-nikhil/output/github-contribution-grid-snake.svg">
-</picture>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🎯 Current Focus
 
-<br>
+```mermaid
+mindmap
+  root((Nikhil's Journey))
+    Learning
+      AWS Cloud Architecture
+      Java Spring Boot
+      System Design
+      Data Structures
+    Building
+      Full-Stack Apps
+      Cloud-Native Solutions
+      UI/UX Projects
+    Growing
+      Open Source (Soon!)
+      Tech Community
+      Content Creation
+```
 
-## 💭 Developer Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
+---
 
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
-### 💬 I'm Always Open To
+I'm always excited to connect with fellow developers, work on interesting projects, or just have a chat about tech! 
 
-<table>
-<tr>
-<td align="center" width="25%">
+### 📬 Reach Out
 
-**💼 Opportunities**
-<br><br>
-🚀 Internships  
-💻 Full-Stack Projects  
-🎯 Freelance Work  
-📚 Learning Together  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-satya-nikhil)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@unknown_person_nikhil)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ft.nikhil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hemasatyanikhil.tech/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyanikhil24@gmail.com)
 
-</td>
-<td align="center" width="25%">
+### 💼 Open For
 
-**🤝 Collaborations**
-<br><br>
-🌟 Open Source  
-🎨 UI/UX Projects  
-🎬 Content Creation  
-💡 Startup Ideas  
-
-</td>
-<td align="center" width="25%">
-
-**📖 Discussions**
-<br><br>
-🧠 DSA & Algorithms  
-☁️ Cloud Architecture  
-🎭 Web Development  
-🚀 Tech Trends  
-
-</td>
-<td align="center" width="25%">
-
-**🎯 Growth**
-<br><br>
-📚 Knowledge Sharing  
-🤝 Mentorship  
-🌱 Learning New Tech  
-💪 Skill Building  
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📬 Get In Touch
-
-<p align="center">
-  <a href="https://linkedin.com/in/hema-satya-nikhil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:satyanikhil24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
-  </a>
-  <a href="https://www.hemasatyanikhil.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://youtube.com/@ft.nikhil" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube"/>
-  </a>
-  <a href="https://instagram.com/unknown_person_nikhil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"/>
-  </a>
-</p>
-
-<br>
-
-### 🌟 Fun Fact About Me
-
-```yaml
-personality:
-  patience_level: "∞ (Infinite)"
-  coding_stamina: "Can code for 12+ hours straight"
-  creativity: "High - Love blending tech with design"
-  learning_speed: "Fast adapter to new technologies"
-  collaboration: "Team player with solo project expertise"
-  
-when_not_coding:
-  - 🎬 Creating & editing videos
-  - 📸 Photography & capturing moments
-  - 🎵 Discovering new music
-  - 📚 Reading tech blogs & articles
-  - 🎮 Occasionally gaming
-  
-life_motto: "Where patience meets code, magic happens ✨"
-```
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad!" – Cory House
-
-<br>
-
-**Thanks for stopping by! Let's build something amazing together! 🚀**
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Happy+Coding!+%F0%9F%92%BB;Let's+Connect+%26+Collaborate!+%F0%9F%A4%9D;Keep+Learning%2C+Keep+Growing!+%F0%9F%8C%B1;Made+with+%E2%9D%A4%EF%B8%8F+by+Nikhil" alt="Footer Typing SVG" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=120&section=footer" width="100%"/>
+- 💻 Full-Stack Development Projects
+- 🎨 UI/UX Design Collaborations
+- 🎬 Content Creation & Video Editing
+- 📚 Learning & Knowledge Sharing
+- 🚀 Internship Opportunities
 
 </div>
 
@@ -596,7 +235,21 @@ life_motto: "Where patience meets code, magic happens ✨"
 
 <div align="center">
 
-**© 2026 Hema Satya Nikhil** • Made with ❤️, ☕, and countless hours of coding
+### 🌟 "Where patience meets code, magic happens" ✨
+
+**Thanks for visiting! Let's build something amazing together 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️, ☕, and countless hours of coding by Hema Satya Nikhil**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Content+Creator;Always+Learning+New+Things;Open+to+Collaborations!)
 
 *Last Updated: May 2026*
 
